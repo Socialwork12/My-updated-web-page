@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Working With Images</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+<body>
+    
+
+    <div id="nav">
+        <!--Anchor tags used for internal navigation-->
+            
+        <a href="index.html">Home page</a>
+        
+        <a href="about_us.html">About Us Page</a>
+        <a href="Contact_us.html">Contact Us Page</a>
+        <a href="mikesworkpage.html">Learning Containers</a>
+        </div>
+
+        <P>This page is specifically devoted to providing free trainings for addiction and mental health practitioners.
+            All trainigs meet the requirements of the North Carolina Addiction Specialist Practice Board and have approval numbers
+            for each training. Trainings are provided by qulified expert clinicans with significant
+            clinical practice experience. These trainings represent the most current trends in the addiction profession
+            and provide participates with journal articles to expand one's knowledge related to the topic.</P> 
+            
+        
+
+        <br><br> <br> <br><br>
+        <div class="gallery">
+            <a target="_blank" href="training 2.JPG">
+            <img src="training 2.JPG">
+            <audio controls>
+                <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        </a>
+        
+        
+        <div class="description"> Introduction to Substance Use Disorders
+            This training provides a broad overview of how substance use progresses from experimental
+             or recreational stages to severe dependence, offering counselors insight into key terms such
+              as tolerance, withdrawal, and dependence. Participants will explore the biopsychosocial model 
+              of addiction, which examines biological, psychological, and social factors contributing to 
+              substance use. By completing this course, counselors can expect to gain a strong foundational 
+              understanding of addiction, learn common terminology, and appreciate the complexity of factors
+               that influence clients substance use.
+            <a href="about_us.html"><br>Read More</a>
+
+            <br><br>
+            
+        
+      </div>
+        <br>
+        
+        <br>
+        </div><div class="gallery">
+            <a target="_blank" href="eosa 2.jpg">
+            <img src="eosa 2.jpg">
+            <audio controls>
+                <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        </a>
+        <div class="description">Pharmacology of Addictive Substances
+            In this training, counselors learn about the most commonly misused substances, including alcohol, 
+            opioids, stimulants, and cannabis—and the neurochemical processes that underlie their effects.
+             Discussions include withdrawal syndromes, toxicity risks, and how these substances interact with 
+             the brain and body. Counselors will emerge with an enhanced ability to recognize substance-
+             specific presentations, educate clients about the physiological impact of these substances,
+              and guide more informed treatment planning.
+            .<a href="about_us.html"><br>
+                Click Here To Access Training</a>
+
+            <br><br>
+        </div>
+        
+        </div>
+        <div class="gallery">
+            <a target="_blank" href="eose 3.jpg">
+            <img src="eose 3.jpg">
+            <audio controls>
+                <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        </a>
+        <div class="description">Screening, Brief Intervention, and Referral to Treatment (SBIRT)
+            SBIRT training introduces evidence-based tools (like the AUDIT and DAST) for early identification
+             of problematic substance use and teaches short, motivational interventions to engage clients who
+              may be ambivalent about change. The course also covers referral pathways to higher levels of care 
+              when needed. By the end, counselors can expect to confidently implement brief, targeted 
+              interventions and link clients to the most appropriate services, improving early detection 
+              and treatment outcomes.<a href="about_us.html"><br>
+                Click Here To Access Training</a>
+            </div>
+
+        
+        
+
+        
+        
+        </div>
+
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="eosa 1.jpg">
+        <img src="eosa 1.jpg">
+        <audio controls>
+            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+    </a>
+    
+    
+    <div class="description">Motivational Interviewing (MI) for Substance Use Disorders
+        This training covers the principles of Motivational Interviewing—expressing empathy, 
+        developing discrepancy, rolling with resistance, and supporting self-efficacy—and 
+        demonstrates how to enhance client motivation and commitment to change. Through roleplays
+         and skill-building activities, counselors learn to elicit clients own reasons for change
+          and build stronger therapeutic alliances. Mastering MI empowers counselors to reduce resistance, 
+          increase engagement, and support positive treatment outcomes.
+        <a href="about_us.html"><br>Read More</a>
+
+        <br><br>
+        
+    
+  </div>
+    <br>
+    
+    <br>
+    </div><div class="gallery">
+        <a target="_blank" href="eosa 2.jpg">
+        <img src="eosa 2.jpg">
+        <audio controls>
+            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+    </a>
+    <div class="description">Ethical and Legal Considerations in SUD Treatment
+        Focusing on confidentiality regulations such as HIPAA and 42 CFR Part 2, 
+        this course helps counselors navigate the ethical and legal complexities 
+        of working with clients who have substance use disorders. It addresses 
+        boundary issues, dual relationships, mandatory reporting, and ethical 
+        decision-making models. Upon completion, counselors will better understand 
+        their professional responsibilities and feel prepared to uphold ethical 
+        standards while protecting clients rights and well-being.<a href="about_us.html"><br>Read More</a>
+
+        </div>
+     
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="eose 3.jpg">
+        <img src="eose 3.jpg">
+        <audio controls>
+            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+    </a>
+    <div class="description">Cognitive Behavioral Therapy (CBT) for Substance Use
+        This training outlines how CBT principles can be applied to identify and 
+        restructure unhealthy thought patterns, develop coping strategies, and enhance
+         problem-solving skills in clients with substance use disorders. The curriculum
+          includes relapse prevention techniques designed to anticipate high-risk situations.
+           Counselors who complete this training gain practical tools for helping clients 
+           modify thought and behavior patterns that contribute to continued substance use.<a href="about_us.html"><br>Read More</a>
+        </div>
+
+ 
+    
+    </div>
+
+
+
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br><br> <br><br><br><br>
+</div>
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+
+
+<div class="description">Co-occurring emphasizes the relationship between mental health issues 
+    and substance use disorders. 
+    Participants learn to screen for both substance use and mental health concerns, 
+    ensuring that treatment addresses the full spectrum of a clients needs. Counselors will
+     be equipped to collaborate with multidisciplinary teams and design comprehensive, 
+     simultaneous interventions that improve client outcomes.<a href="about_us.html"><br>Read More</a>
+     
+    
+    
+
+    <br><br>
+    
+
+</div>
+<br>
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+<div class="description">Family Systems Therapy for Addiction
+    This training explores how family roles, dynamics, and communication patterns
+     can perpetuate or mitigate substance use. Counselors learn to identify 
+     behaviors like enabling and co-dependency and practice evidence-based 
+     interventions that involve family members and partners in the recovery
+      process. Upon completion, counselors will have strategies to strengthen 
+      family support, resolve conflict, and improve overall relationship 
+      functioning in the context of addiction treatment. <a href="about_us.html"><br>Read More</a>
+
+
+    </div>
+ <br><br>
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+<div class="description">Group Therapy for Substance Use Disorders
+    In this training, participants review various group counseling formats, 
+    from psychoeducational to process-oriented, and examine the stages of 
+    group development. The training also addresses strategies for managing 
+    challenging behaviors and group dynamics. Counselors will develop 
+    confidence in facilitating effective group therapy sessions that 
+    enhance peer support, mutual learning, and accountability among group members.<a href="about_us.html"><br>Read More</a>
+
+    </div>
+
+
+<br>
+</div>
+
+
+
+
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br> <br><br> 
+</div>
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+
+
+<div class="description">eTrauma-Informed Care in Addiction Treatment
+    Understanding the influence of trauma on the brain and behavior is
+     central to this training, which advocates for a trauma-informed
+      approach focused on safety, trustworthiness, and empowerment. 
+      Counselors learn specific interventions (e.g., Seeking Safety)
+       that integrate addiction and trauma work. By adopting trauma-informed 
+       principles, counselors can create a supportive environment that reduces 
+       retraumatization and fosters healthier coping strategies in clients with 
+       trauma histories.
+    .<a href="about_us.html"><br>Read More</a>
+
+
+
+</div>
+
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+<div class="description">Medication-Assisted Treatment (MAT)
+    Counselors in this training explore how FDA-approved medications 
+    (such as buprenorphine, methadone, and naltrexone) can be paired 
+    with psychosocial support for clients with opioid and alcohol use
+     disorders. Discussions include best practices, stigma reduction, 
+     and dispelling common misconceptions about medication in recovery.
+      Upon completion, counselors will be better equipped to advocate for 
+      and support clients considering or receiving MAT as part of a comprehensive 
+      treatment plan.<a href="about_us.html"><br>Read More</a>
+
+    </div>
+ 
+    
+
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+    <audio controls>
+        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+</a>
+<div class="description">Relapse Prevention & Continuing Care
+This module emphasizes the identification of high-risk triggers
+ and the development of effective coping strategies to support 
+ long-term recovery. Counselors review aftercare planning, involving 
+ mutual-help groups like 12-step or SMART Recovery, and learn how to 
+ maintain client engagement post-treatment. Mastery of these skills 
+ helps counselors foster clients resilience and reduce the likelihood 
+ of relapse by creating robust support networks and sustainable routines.<a href="about_us.html"><br>Read More</a>
+
+
+ 
+</div>
+
+</div>
+
+
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br><br> <br><br> <br>
+
+</div>
+
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+</a>
+
+
+<div class="description">Cultural Competency in SUD Treatment
+    This training encourages counselors to examine how culture, race, 
+    ethnicity, gender, and other identities shape the experience and 
+    treatment of substance use disorders. It covers culturally adapted
+     interventions, potential treatment barriers, and strategies to 
+     provide inclusive care. Counselors will become more adept at
+      recognizing the unique needs of diverse clients and tailoring
+       interventions to respect and accommodate cultural differences.
+    
+    .<a href="about_us.html"><br>Read More</a>
+
+
+
+</div>
+
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+</a>
+<div class="description">Mindfulness and Third-Wave Behavioral Therapies
+    Counselors learn how mindfulness-based relapse prevention (MBRP) and 
+    Acceptance and Commitment Therapy (ACT) can enhance traditional treatment
+     models by helping clients manage cravings and increase psychological 
+     flexibility. Sessions explore practical mindfulness exercises for both 
+     individual and group settings. Participants will gain tools to help clients
+      stay present in the moment, reduce impulsive behaviors, and commit to values
+      -driven actions.
+    <a href="about_us.html"><br>Read More</a>
+
+    </div>
+ 
+    
+
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+</a>
+<div class="description">Advanced Assessment and Diagnostic Tools For Treating Substance Use Disorders
+    This training delves into comprehensive biopsychosocial assessments, 
+    structured clinical interviews like the SCID, and approaches for interpreting 
+    complex presentations. Counselors learn to differentiate between overlapping
+     mental health and substance use issues. With these advanced diagnostic skills, 
+     practitioners are better prepared to develop nuanced treatment plans and 
+     ensure that co-occurring conditions are recognized and addressed.
+    <a href="about_us.html"><br>Read More</a>
+
+ 
+
+</div>
+
+
+
+</div>
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br>
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+</a>
+
+
+<div class="description">Foundations of Clinical Supervision in Addiction Treatment
+    This training provides an overview of clinical supervisors roles, including 
+    ethical obligations, supervision contracts, and various supervisory models 
+    (developmental and reflective). Counselors who are moving into supervisory 
+    positions will gain clarity on structure, legal considerations, and best 
+    practices to support supervisees. By solidifying foundational supervision
+     skills, participants will foster professional growth and ensure effective 
+     oversight of clinical services.
+    
+    <a href="about_us.html"><br>Read More</a>
+
+
+
+</div>
+
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+</a>
+<div class="description">Advanced Clinical Supervision: Skills and Strategies
+    Building on foundational supervision concepts, this advanced module addresses 
+    methods for giving constructive feedback, evaluating performance, and navigating 
+    supervisee resistance. The course also emphasizes cultural humility and strategies 
+    to develop supervisees competencies in evidence-based practices. Counselors 
+    completing this training will sharpen their abilities to mentor, coach, and 
+    facilitate ongoing professional development within their clinical teams.
+    <a href="about_us.html"><br>Read More</a>
+
+    </div>
+ 
+    
+
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+</a>
+<div class="description">Harm Reduction Strategies
+    This training focuses on the philosophy and principles of harm 
+    reduction, emphasizing practical ways to meet clients “where they’re 
+    at” in their substance use. Topics include overdose prevention through 
+    naloxone training, fentanyl awareness, and strategies such as syringe 
+    services programs to reduce disease transmission. Counselors will learn 
+    motivational approaches that blend harm reduction with traditional models, 
+    thereby expanding their ability to engage clients who are not yet ready 
+    for abstinence.
+    <a href="about_us.html"><br>Read More</a>
+
+ 
+
+</div>
+
+
+</div>
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br> <br><br> <br><br> <br>
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+</a>
+
+
+<div class="description">Crisis Intervention and Emergency Care in SUD
+    This module educates counselors on identifying and managing acute crises 
+    such as severe withdrawal, suicidal ideation, or overdose. Participants l
+    rn de-escalation techniques, hospital and emergency department protocols, 
+    and ways to coordinate with EMS and law enforcement. Acquiring these skills 
+    enables counselors to respond swiftly and effectively in high-risk situations,
+     ensuring client safety and continuity of care.
+    
+    
+    <a href="about_us.html"><br>Read More</a>
+
+
+
+</div>
+
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+</a>
+<div class="description">Ethical Decision Making in High-Risk Situations
+    Focusing on complex ethical dilemmas, this training addresses mandated
+     reporting, confidentiality, and dual-role boundaries in substance use 
+     disorder treatment. Participants practice applying ethical frameworks 
+     to real-world scenarios, such as client relapse or domestic violence. 
+     By the end, counselors will be more adept at navigating conflicting 
+     obligations, protecting client welfare, and upholding professional standards.
+    
+    <a href="about_us.html"><br>Read More</a>
+
+    </div>
+ 
+    
+
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+</a>
+<div class="description">Criminal Justice Populations and Substance Use Disorders
+    Counselors in this course examine specialized programs like drug courts,
+     mental health courts, and re-entry initiatives, as well as the Risk-Need-
+     Responsivity (RNR) model for offender rehabilitation. Training includes 
+     implementing MAT and group interventions in correctional settings, 
+     followed by strategies for reintegration into the community. Counselors
+      will be prepared to serve justice-involved clients more effectively, 
+      reducing recidivism and supporting lasting recovery.
+    
+    <a href="about_us.html"><br>Read More</a>
+
+ 
+
+</div>
+
+</div>
+<br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br>
+<div class="gallery">
+    <a target="_blank" href="eosa 1.jpg">
+    <img src="eosa 1.jpg">
+</a>
+
+
+<div class="description">Nicotine Use Disorder
+    This training focuses on understanding nicotine as an addictive 
+    substance and exploring the biological, behavioral, and social 
+    factors that contribute to Nicotine Use Disorder (NUD). Counselors
+     learn about nicotine’s pharmacological effects, the various forms
+      of tobacco products (e.g., cigarettes, vaping devices, smokeless 
+      tobacco), and how nicotine dependence develops. Evidence-based 
+      cessation strategies, including motivational interviewing, 
+      behavioral counseling, and pharmacotherapies (e.g., nicotine replacement 
+      therapy, bupropion, varenicline), are discussed in detail. By integrating 
+      these approaches, participants will be able to tailor comprehensive 
+      cessation plans, address co-occurring substance use, and support 
+      clients in overcoming cravings and withdrawal. The goals for 
+      counselors include enhancing their ability to assess for nicotine 
+      dependence, increase client motivation to quit, and implement practical 
+      interventions that lead to sustained smoking cessation.
+    
+    
+    
+    <a href="about_us.html"><br>Read More</a>
+
+
+
+</div>
+
+
+<br>
+</div><div class="gallery">
+    <a target="_blank" href="eosa 2.jpg">
+    <img src="eosa 2.jpg">
+</a>
+<div class="description">	Domestic Violence and Substance Use Disorders
+    This training addresses the complex interplay between intimate partner 
+    violence (IPV) and substance use disorders, recognizing that each can 
+    exacerbate the other. Counselors learn how substance use may escalate 
+    the frequency and severity of abuse, while ongoing violence can perpetuate
+     or worsen drug or alcohol misuse. The session covers screening techniques
+      for domestic violence, safety planning, and trauma-informed approaches 
+      that protect victims’ confidentiality and well-being. Participants also
+       explore legal and ethical considerations, such as mandated reporting, 
+       and strategies for working collaboratively with local domestic violence 
+       services. Counselors completing this course will be better equipped to 
+       identify signs of IPV, create interventions sensitive to victims’ safety, 
+       and incorporate substance use treatment that acknowledges the trauma and 
+       power dynamics inherent in abusive relationships.
+    
+    
+    <a href="about_us.html"><br>Read More</a>
+
+    </div>
+ 
+    
+
+</div>
+<div class="gallery">
+    <a target="_blank" href="eose 3.jpg">
+    <img src="eose 3.jpg">
+</a>
+<div class="description">HIV/AIDS
+    This training highlights the vital connection between HIV/AIDS and 
+    substance use, emphasizing how behaviors such as intravenous drug 
+    use and high-risk sexual activity can increase HIV transmission rates. 
+    Counselors explore the medical and psychosocial aspects of HIV/AIDS, 
+    including current treatments, prevention strategies (e.g., pre-exposure 
+    prophylaxis, or PrEP), and harm reduction measures. Special attention 
+    is given to addressing stigma, confidentiality (particularly in relation 
+    to HIV status disclosure), and cultural competency when working with 
+    diverse populations affected by HIV. By the end of the session, 
+    counselors will be prepared to integrate HIV screening, education, 
+    and prevention into substance use disorder treatment plans, enhancing 
+    overall client care and public health outcomes.
+    
+    
+    <a href="about_us.html"><br>Read More</a>
+</body>
+
+</html>
