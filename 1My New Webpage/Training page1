@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Free Training</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+<body>
+    
+
+    <div id="nav">
+        <!--Anchor tags used for internal navigation-->
+            
+        <a href="index.html">Home page</a>
+        
+        <a href="about_us.html">About Us Page</a>
+        <a href="Contact_us.html">Contact Us Page</a>
+        <a href="mikesworkpage.html">Learning Containers</a>
+        <a href="images_page.html">Trainings Home Page</a>
+
+            </div>
+            <div id="header">
+                <div id="banner">
+                   <p style="font-size: 60px; text-align: center;">Introduction To Treating Substance Use Disorders </p>
+                   
+                        
+                   <div>
+                    <P style="background: none;background-color: white;">Training Description:<br><br> Introduction to Substance Use Disorders This training provides 
+                        a broad overview of how substance use progresses from experimental or recreational 
+                        stages to severe dependence, offering counselors insight into key terms such as 
+                        tolerance, withdrawal, and dependence. Participants will explore the biopsychosocial
+                         model of addiction, which examines biological, psychological, and social factors 
+                         contributing to substance use. By completing this course, counselors can expect 
+                         to gain a strong foundational understanding of addiction, learn common terminology,
+                          and appreciate the complexity of factors that influence clients substance use.</P>
+                          <br>
+                          <p style="background: none;">This is a self-paced training which provides 2 substance specifice board approved
+                            hours. 
+                          </p>
+    
+                </div>
+            </div>
+            <hr/>
+            <p><h3>This is the image we will use for group therapy</h3></p>
+            <img src="Group test (2).jpg" width="560" height="315"/>
+
+           
+
+
+            <div>
+                <ul style="font-size: 25px; background-color: rgb(205, 209, 208); margin-right: 150px; margin-left: 75px;">
+                    <P style="background: none; font-style: italic; font-weight: bolder;"> These are articles used for this training</P>
+                    <h2><a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a></h2>
+                         
+                    Article 2
+                    <br><br>
+                    Article 3
+                </ul>
+            </div>
+
+                <br><br>
+                
+                <ul style="font-size: 25px; background-color: rgb(205, 209, 208); margin-right: 150px; margin-left: 75px;">
+                    <P style="background: none; font-style: italic; font-weight: bolder;"> Additional Resources For This Training</P>
+                    <h2><a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a></h2>
+                         
+                    Article 2
+                    <br><br>
+                    Article 3
+                </ul>
+            </div>
+
+
+        </body>
+
+        </html>
