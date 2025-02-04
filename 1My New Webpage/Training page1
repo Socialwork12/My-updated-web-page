@@ -23,9 +23,9 @@
                 <div id="banner">
                    <p style="font-size: 60px; text-align: center;">Introduction To Treating Substance Use Disorders </p>
                    
-                        
+                        <br>
                    <div>
-                    <P style="background: none;background-color: white; margin-left: 15px; margin-left: 15px;">Training Description:<br><br> Introduction to Substance Use Disorders This training provides 
+                    <P style="background: none;background-color: white; margin-left: 15px; margin-left: 15px;"><b>Training Description:</b><br><br> Introduction to Substance Use Disorders This training provides 
                         a broad overview of how substance use progresses from experimental or recreational 
                         stages to severe dependence, offering counselors insight into key terms such as 
                         tolerance, withdrawal, and dependence. Participants will explore the biopsychosocial
@@ -33,6 +33,16 @@
                          contributing to substance use. By completing this course, counselors can expect 
                          to gain a strong foundational understanding of addiction, learn common terminology,
                           and appreciate the complexity of factors that influence clients substance use.</P>
+                          
+
+                          <ol style="text-align: left;">
+                           <b><p style="text-decoration: underline; background: none; ">Course Learning Objectives</p></b>
+                           Identify the Continuum of Substance Use<br>Examine the Various Motivations for Substance Use
+                           <br>Understand Key Addiction Terminology<br>Explain the Biopsychosocial Model of Addiction
+                           <br>Recognize Risk and Protective Factors
+                        
+                          </ol>
+
                           <br>
                           <p style="background: none; margin-left: 15px; margin-right: 15px;">This is a web-based self-paced training which provides 2 hours substance specific
                              board approved hours. The content for this project has been curated or developed by author Michael Daniels
@@ -41,7 +51,7 @@
                              of finance and access.
                              <br><br>
 
-                             Receiving Credit: In order to receive credit for the training you must complete the interactive question within
+                            <b> Receiving Credit:</b> In order to receive credit for the training you must complete the interactive question within
                              the training. If you do not complete the embedded quizes, when you get to  end of the training you will not
                              receive credit until you complete the embedded quiz questions. In Addition, you must complete the 
                              50 item quiz at the end of the training and receive at least an85% before receiving your certificate. You do have 
