@@ -1,0 +1,184 @@
+h1 {
+    background-color: rgb(158, 164, 164);
+}
+
+
+
+#banner{
+
+    background-color: ;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center; color: #0f0e0e;
+    font-size: 25px;
+    
+}
+
+#banner p{
+    margin: 5px;
+}
+
+
+
+#nav{
+    background-color: darkkhaki;
+    color: aliceblue;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+   
+}
+#nav a{
+    color: white;
+    font-size: 30px;
+    margin: 8px;
+    text-decoration: none;
+   
+}
+
+#nav a:hover{
+    background-color: blue;
+}
+
+#footer{
+    background-color: coral;
+    min-height: 50px;
+   
+    
+    
+    
+    
+}
+#footer a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+  
+    
+
+}
+
+#footer a:hover{
+    color: #370863;
+}
+
+#main{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    text-align: left;
+    border-radius: 15px;
+}
+
+.type{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a51919;
+    font-size: 20px;
+    text-align: justify;
+   
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content:
+    
+    
+    
+    
+    
+
+}
+.box{
+    width: 250px;
+    height: 150px;
+    font-size: 25px;
+    text-align:justify;
+    margin-right: 10px;
+    
+    
+  
+}
+#box1{
+    background-color: coral; width: 300px; height: 200px;margin-left: 30px;
+}
+
+
+#box2{
+ width: 1100px;margin-left: 25px;
+    text-align: justify
+    
+    
+    
+    
+    
+}
+
+
+#box6{
+    background-color: aquamarine;
+    font-size: 25px;
+    text-align: left;
+    padding: 20px;
+    width: 450px;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-block-end: 500px;
+    text-wrap: 100px;
+}
+
+.gallery{
+    display:inline-flex;
+    flex-direction: column;
+    
+    border: 1px solid gray;
+    margin: 5px;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    margin-right: 50px;
+
+}
+
+.gallery .description{
+    padding: 5px;
+    text-align: top;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.gallery:hover{
+    border: 10px solid rgb(211, 8, 8);
+}
+
+.gallery img{
+    width: 400px; 
+    height: 300px;
+    border-radius: 10px;
+    
+
+}
+
+p{
+    font-size: 30px;
+    text-align: left;
+   background-color: #d7e6d7;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+   
+    
+}
+ p:hover {
+    background-color: #0bef98;
+}
