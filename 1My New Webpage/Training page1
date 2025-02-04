@@ -25,7 +25,7 @@
                    
                         
                    <div>
-                    <P style="background: none;background-color: white;">Training Description:<br><br> Introduction to Substance Use Disorders This training provides 
+                    <P style="background: none;background-color: white; margin-left: 15px; margin-left: 15px;">Training Description:<br><br> Introduction to Substance Use Disorders This training provides 
                         a broad overview of how substance use progresses from experimental or recreational 
                         stages to severe dependence, offering counselors insight into key terms such as 
                         tolerance, withdrawal, and dependence. Participants will explore the biopsychosocial
@@ -34,8 +34,23 @@
                          to gain a strong foundational understanding of addiction, learn common terminology,
                           and appreciate the complexity of factors that influence clients substance use.</P>
                           <br>
-                          <p style="background: none;">This is a self-paced training which provides 2 substance specifice board approved
-                            hours. 
+                          <p style="background: none; margin-left: 15px; margin-right: 15px;">This is a web-based self-paced training which provides 2 hours substance specific
+                             board approved hours. The content for this project has been curated or developed by author Michael Daniels
+                             MSW, LCAS, CCS, LCSW and other many amazing professionals who have donated their expertice and time to 
+                             ensure practitioners entering the addiction profession have access to quality trainings without barriers 
+                             of finance and access.
+                             <br><br>
+
+                             Receiving Credit: In order to receive credit for the training you must complete the interactive question within
+                             the training. If you do not complete the embedded quizes, when you get to  end of the training you will not
+                             receive credit until you complete the embedded quiz questions. In Addition, you must complete the 
+                             50 item quiz at the end of the training and receive at least an85% before receiving your certificate. You do have 
+                             the option of retaking the quiz until you reach the approved score. Once you submit your quiz, you will receive
+                             your certificate with in 24 hours.
+                              
+                             
+
+                            
                           </p>
     
                 </div>
@@ -47,29 +62,56 @@
            
 
 
-            <div>
-                <ul style="font-size: 25px; background-color: rgb(205, 209, 208); margin-right: 150px; margin-left: 75px;">
-                    <P style="background: none; font-style: italic; font-weight: bolder;"> These are articles used for this training</P>
-                    <h2><a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a></h2>
-                         
-                    Article 2
-                    <br><br>
-                    Article 3
-                </ul>
-            </div>
+            <div class="container">
+                <div class="box" id="box1" style="width: 800px; height: 400px; background: beige; margin-right: 30px;">
 
-                <br><br>
+                <p style="background: none; text-decoration: underline;">Additional Resources For This Training</p>
+                <ul>
+                    <a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a>
+                    <br><br>
+                    Clinical supervision
+                </ul>
                 
-                <ul style="font-size: 25px; background-color: rgb(205, 209, 208); margin-right: 150px; margin-left: 75px;">
-                    <P style="background: none; font-style: italic; font-weight: bolder;"> Additional Resources For This Training</P>
-                    <h2><a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a></h2>
-                         
-                    Article 2
-                    <br><br>
-                    Article 3
-                </ul>
+                </div>
+                <br>
+                <div="box2" style="width: 500px; margin-left: 50px; height: 60px;"><p style="height: 500px; ">this is a test to see how this one willl work being
+                    it is a longer box and will the test wrap on this one. This would be the box
+                    I would put the text in. Not sure why this is flashing and knocking out my iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                    9999999999999999999999999
+                    ttttttttttttttttttttttttttttttttttttttt
+                    stuff. </p></div> 
+                
+            
             </div>
+            <br>
+            <div class="container">
+                <div class="box" id="box1" style="width: 800px; height: 400px; background: beige; margin-right: 30px;">
 
+                <p style="background: none; text-decoration: underline;">Additional Resources For This Training</p>
+                <ul>
+                    <a  href="https://drive.google.com/drive/folders/1saOJypBwd7aYH7KTawsF-jiilZD2Bin5?usp=sharing">Clinical Supervision Articles Folder</a>
+                    <br><br>
+                    Clinical supervision
+                </ul>
+                
+                </div>
+                <br>
+                
+                
+            
+            </div>
+                <br><br>
+
+
+
+            <div style="background-color: rgb(153, 6, 252); margin-left: 15px; margin-right: 15px;
+            padding: 20px; text-decoration: aliceblue;">
+                <footer style="color: aliceblue; font-size: 30px;">
+                    Contact: Michael Daniels, Email: danielsm@ecu.edu, Phone: (919 300-9999)
+                    <br>
+                    Technical Support Contact: James Joseph 
+                </footer>
+            </div>
 
         </body>
 
