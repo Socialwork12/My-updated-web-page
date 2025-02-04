@@ -1,0 +1,130 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      
+    </style>
+</head>
+<body>
+    
+    <div id="nav">
+        <!--Anchor tags used for internal navigation-->
+            
+        <a href="index.html">Home page</a>
+        
+        <a href="about_us.html">About Us Page</a>
+        <a href="Contact_us.html">Contact Us Page</a>
+        <a href="mikesworkpage.html">Learning Containers</a>
+
+            </div>
+            <h1>Contact Us</h1>
+    
+    <hr/>
+   
+    <h1>Location</h1>
+    <table>
+     <tr>
+        <th><h2>Location</h2></th>
+        <th><h2>Opening Hours</h2></th>
+        <th><h2>Email Address</h2></th>
+        <th><h2>Phone Number</h2></th>
+     </tr>    
+    <tr>
+        <td><a href="https://drive.google.com/file/d/1iVgr0S1lR65eyBJY0Qz2Tjh1FMrIc7tn/view?usp=sharing">Supervision Article</a></td>
+        <td>Articles For Research</td>
+        <td>danielsm@ecud</td>
+        <td>919 9893383</td>
+    </tr>
+    <tr>
+        <td>Smithfield</td>
+        <td>9:00 am</td>
+        <td>danielsm@ecud</td>
+        <td>919 9893383</td>
+    </tr>
+    <tr>
+        <td>Jacksonville</td>
+        <td>9:00 am</td>
+        <td>danielsm@ecud</td>
+        <td>919 9893383</td>
+    </tr>
+    <tr>
+        <td>Dobville</td>
+        <td>9:00 am</td>
+        <td>danielsm@ecud</td>
+        <td>919 9893383</td>
+    </tr>
+</table>
+
+<h2>General Inquires</h2>
+<form action="comformation.html">
+
+<lable for="fullname"> Name:*</lable><br>
+<input required type="text" id="fullname" name="fullname"/>
+<br><br><br>
+<lable for="email">Email Address: *</lable><br>
+<input required type="email" id="email" name="email address"/>
+<br><br>
+<label>Are you employed</label><br>
+<input type="radio" value="Yes" name="employed"/> Yes
+<input type="radio" value="No" name="employed"/> No
+<br><br>
+
+<label>State your inquiry *</label>
+<br>
+<textarea cols="50" rows="10" maxlength="150"></textarea>
+<input type="submit"/>
+</form>
+
+
+<div class="container">
+    <div class="box" id="box1"><img src="michael picture 5.jpg" width="300" height="200">    </div>
+    <br>
+    <div class="box" id="box2"><p>this is a test to see how this one willl work being
+        it is a longer box and will the test wrap on this one. This would be the box
+        I would put the text in. Not sure why this is flashing and knocking out my 
+        stuff. </p></div> 
+    
+
+</div>
+<br>
+<div class="container">
+    <div class="box" id="box1"><img src="Michael picture 2.jpg" width="300" height="200">    </div>
+    <br>
+    <div class="box" id="box2"><p>this is a test to see how this one willl work being
+        it is a longer box and will the test wrap on this one. This would be the box
+        I would put the text in. Not sure why this is flashing and knocking out my 
+        stuff. </p></div> 
+    
+
+</div>
+
+<br><br><br>
+
+<div class="container">
+    <div class="box" id="box1"><img src="Michael picture 2.jpg" width="300" height="200">    </div>
+    <br>
+    <div class="box" id="box2"><p>this is a test to see how this one willl work being
+        it is a longer box and will the test wrap on this one. This would be the box
+        I would put the text in. Not sure why this is flashing and knocking out my 
+        stuff. </p></div> 
+    
+
+</div>
+
+
+<br><br><br>
+<div class="container">
+    <div class="box" id="box1"><img src="Michael picture 2.jpg" width="300" height="200">    </div>
+    <br>
+    <div class="box" id="box2"><p>this is a test to see how this one willl work being
+        it is a longer box and will the test wrap on this one. This would be the box
+        I would put the text in. Not sure why this is flashing and knocking out my 
+        stuff. </p></div> 
+    
+
+</div>
+</body>
+</html>
