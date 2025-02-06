@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 <head>
@@ -14,22 +14,25 @@
         <a href="index.html">Home page</a>
         
         <a href="about_us.html">About Us Page</a>
-        <a href="Contact_us.html">Contact Us Page</a>
-        <a href="mikesworkpage.html">Learning Containers</a>
+       
+       
         </div>
+        <audio controls src="traing page audio.mp3" ></audio>
 
         <P>This page is specifically devoted to providing free trainings for addiction and mental health practitioners.
-            All trainigs meet the requirements of the North Carolina Addiction Specialist Practice Board and have approval numbers
-            for each training. Trainings are provided by qulified expert clinicans with significant
+            All trainings meet the requirements of the North Carolina Addiction Specialist Professional Practice Board and have approval numbers
+            for each training. Trainings are provided by qulified expert clinicians with significant
             clinical practice experience. These trainings represent the most current trends in the addiction profession
-            and provide participates with journal articles to expand one's knowledge related to the topic.</P> 
+            and provide participates with journal articles to expand one's knowledge related to the topic. You are three clicks
+            away from the training. Click the image below to review learning objectives: click the audio button to hear or read 
+            the trainig description: click the link to access the training page.</P> 
             
         
 
-        <br><br> <br> <br><br>
+        <br><br> <br> 
         <div class="gallery">
-            <a target="_blank" href="training 2.JPG">
-            <img src="training 2.JPG">
+            <a target="_blank" href="TI1.jpg">
+            <img src="TI1.jpg">
             <audio controls>
                 <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
         </a>
@@ -43,7 +46,7 @@
               substance use. By completing this course, counselors can expect to gain a strong foundational 
               understanding of addiction, learn common terminology, and appreciate the complexity of factors
                that influence clients substance use.
-            <a href="about_us.html"><br>Click Here To Access Training Page</a>
+            <a href="training_1.html"><br>Click Here To Access Training Page</a>
 
             <br><br>
             
@@ -53,10 +56,10 @@
         
         <br>
         </div><div class="gallery">
-            <a target="_blank" href="eosa 2.jpg">
-            <img src="eosa 2.jpg">
+            <a target="_blank" href="TI2.jpg">
+            <img src="TI2.jpg">
             <audio controls>
-                <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+                <source src="training 2.mp3" type="audio/mp3"></audio>
         </a>
         <div class="description">Pharmacology of Addictive Substances
             In this training, counselors learn about the most commonly misused substances, including alcohol, 
@@ -65,7 +68,7 @@
              the brain and body. Counselors will emerge with an enhanced ability to recognize substance-
              specific presentations, educate clients about the physiological impact of these substances,
               and guide more informed treatment planning.
-            .<a href="about_us.html"><br>
+            .<a href="training_2.html"><br>
                 Click Here To Access Training Page</a>
 
             <br><br>
@@ -73,10 +76,10 @@
         
         </div>
         <div class="gallery">
-            <a target="_blank" href="eose 3.jpg">
-            <img src="eose 3.jpg">
+            <a target="_blank" href="TI3.jpg">
+            <img src="TI3.jpg">
             <audio controls>
-                <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+                <source src="training 3.mp3" type="audio/mp3"></audio>
         </a>
         <div class="description">Screening, Brief Intervention, and Referral to Treatment (SBIRT)
             SBIRT training introduces evidence-based tools (like the AUDIT and DAST) for early identification
@@ -84,7 +87,7 @@
               may be ambivalent about change. The course also covers referral pathways to higher levels of care 
               when needed. By the end, counselors can expect to confidently implement brief, targeted 
               interventions and link clients to the most appropriate services, improving early detection 
-              and treatment outcomes.<a href="about_us.html"><br>
+              and treatment outcomes.<a href="training_3.html"><br>
                 Click Here To Access Training Page</a>
             </div>
 
@@ -99,10 +102,10 @@
 <br><br> <br><br> <br><br> <br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
     <div class="gallery">
-        <a target="_blank" href="eosa 1.jpg">
-        <img src="eosa 1.jpg">
+        <a target="_blank" href="TI4.jpg">
+        <img src="TI4.jpg">
         <audio controls>
-            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+            <source src="Training 4.mp3" type="audio/mp3"></audio>
     </a>
     
     
@@ -123,10 +126,10 @@
     
     <br>
     </div><div class="gallery">
-        <a target="_blank" href="eosa 2.jpg">
-        <img src="eosa 2.jpg">
+        <a target="_blank" href="TI5.jpg">
+        <img src="TI5.jpg">
         <audio controls>
-            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+            <source src="training 5.mp3" type="audio/mp3"></audio>
     </a>
     <div class="description">Ethical and Legal Considerations in SUD Treatment
         Focusing on confidentiality regulations such as HIPAA and 42 CFR Part 2, 
@@ -141,10 +144,10 @@
      
     </div>
     <div class="gallery">
-        <a target="_blank" href="eose 3.jpg">
-        <img src="eose 3.jpg">
+        <a target="_blank" href="TI6.jpg">
+        <img src="TI6.jpg">
         <audio controls>
-            <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+            <source src="training 6.mp3" type="audio/mp3"></audio>
     </a>
     <div class="description">Cognitive Behavioral Therapy (CBT) for Substance Use
         This training outlines how CBT principles can be applied to identify and 
@@ -165,10 +168,10 @@
 <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br><br> <br><br><br><br>
 </div>
 <div class="gallery">
-    <a target="_blank" href="eosa 1.jpg">
-    <img src="eosa 1.jpg">
+    <a target="_blank" href="TI7.jpg">
+    <img src="TI7.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 7.mp3" type="audio/mp3"></audio>
 </a>
 
 
@@ -190,10 +193,10 @@
 
 <br>
 </div><div class="gallery">
-    <a target="_blank" href="eosa 2.jpg">
-    <img src="eosa 2.jpg">
+    <a target="_blank" href="TI8a.jpg">
+    <img src="TI8a.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 8.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Family Systems Therapy for Addiction
     This training explores how family roles, dynamics, and communication patterns
@@ -209,10 +212,10 @@
  <br><br>
 </div>
 <div class="gallery">
-    <a target="_blank" href="eose 3.jpg">
-    <img src="eose 3.jpg">
+    <a target="_blank" href="TI8.jpg">
+    <img src="TI8.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 9.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Group Therapy for Substance Use Disorders
     In this training, participants review various group counseling formats, 
@@ -235,23 +238,23 @@
 <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br> <br><br> 
 </div>
 <div class="gallery">
-    <a target="_blank" href="eosa 1.jpg">
-    <img src="eosa 1.jpg">
+    <a target="_blank" href="TI10.jpg">
+    <img src="TI10.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 10.mp3" type="audio/mp3"></audio>
 </a>
 
 
-<div class="description">eTrauma-Informed Care in Addiction Treatment
+<div class="description">Trauma-Informed Care in Addiction Treatment
     Understanding the influence of trauma on the brain and behavior is
      central to this training, which advocates for a trauma-informed
       approach focused on safety, trustworthiness, and empowerment. 
-      Counselors learn specific interventions (e.g., Seeking Safety)
+      Counselors learn specific interventions 
        that integrate addiction and trauma work. By adopting trauma-informed 
        principles, counselors can create a supportive environment that reduces 
        retraumatization and fosters healthier coping strategies in clients with 
        trauma histories.
-    .<a href="about_us.html"><br>Click Here To Access Training Page</a>
+    <a href="about_us.html"><br>Click Here To Access Training Page</a>
 
 
 
@@ -260,10 +263,10 @@
 
 <br>
 </div><div class="gallery">
-    <a target="_blank" href="eosa 2.jpg">
-    <img src="eosa 2.jpg">
+    <a target="_blank" href="TI11.jpg">
+    <img src="TI11.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 11.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Medication-Assisted Treatment (MAT)
     Counselors in this training explore how FDA-approved medications 
@@ -281,10 +284,10 @@
 
 </div>
 <div class="gallery">
-    <a target="_blank" href="eose 3.jpg">
-    <img src="eose 3.jpg">
+    <a target="_blank" href="TI12.jpg">
+    <img src="TI12.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training12.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Relapse Prevention & Continuing Care
 This module emphasizes the identification of high-risk triggers
@@ -308,10 +311,10 @@ This module emphasizes the identification of high-risk triggers
 </div>
 
 <div class="gallery">
-    <a target="_blank" href="eosa 1.jpg">
-    <img src="eosa 1.jpg">
+    <a target="_blank" href="TI13.jpg">
+    <img src="TI13.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 13.mp3" type="audio/mp3"></audio>
 </a>
 
 
@@ -333,10 +336,10 @@ This module emphasizes the identification of high-risk triggers
 
 <br>
 </div><div class="gallery">
-    <a target="_blank" href="eosa 2.jpg">
-    <img src="eosa 2.jpg">
+    <a target="_blank" href="TI13.jpg">
+    <img src="TI13.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 13.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Mindfulness and Third-Wave Behavioral Therapies
     Counselors learn how mindfulness-based relapse prevention (MBRP) and 
@@ -359,7 +362,7 @@ This module emphasizes the identification of high-risk triggers
     <audio controls>
         <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Advanced Assessment and Diagnostic Tools For Treating Substance Use Disorders
+<div class="description">Assessment and Diagnostic Tools For Treating Substance Use Disorders
     This training delves into comprehensive biopsychosocial assessments, 
     structured clinical interviews like the SCID, and approaches for interpreting 
     complex presentations. Counselors learn to differentiate between overlapping
@@ -423,10 +426,10 @@ This module emphasizes the identification of high-risk triggers
 
 </div>
 <div class="gallery">
-    <a target="_blank" href="eose 3.jpg">
-    <img src="eose 3.jpg">
+    <a target="_blank" href="TI18.jpg">
+    <img src="TI18.jpg">
     <audio controls>
-        <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
+        <source src="training 18.mp3" type="audio/mp3"></audio>
 </a>
 <div class="description">Harm Reduction Strategies
     This training focuses on the philosophy and principles of harm 
@@ -456,7 +459,7 @@ This module emphasizes the identification of high-risk triggers
 
 
 <div class="description">Crisis Intervention and Emergency Care in SUD
-    This module educates counselors on identifying and managing acute crises 
+    This training educates counselors on identifying and managing acute crises 
     such as severe withdrawal, suicidal ideation, or overdose. Participants l
     rn de-escalation techniques, hospital and emergency department protocols, 
     and ways to coordinate with EMS and law enforcement. Acquiring these skills 
