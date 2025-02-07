@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -30,7 +30,7 @@
         
 
         <br><br> <br> 
-        <div class="gallery">
+        <div class="gallery" style="margin-left: 75px;">
             <a target="_blank" href="TI1.jpg">
             <img src="TI1.jpg">
             <audio controls>
@@ -38,7 +38,7 @@
         </a>
         
         
-        <div class="description"> Introduction to Substance Use Disorders
+        <div class="description"> <b>Introduction to Substance Use Disorders:</b>
             This training provides a broad overview of how substance use progresses from experimental
              or recreational stages to severe dependence, offering counselors insight into key terms such
               as tolerance, withdrawal, and dependence. Participants will explore the biopsychosocial model 
@@ -55,13 +55,13 @@
         <br>
         
         <br>
-        </div><div class="gallery">
+        </div><div class="gallery" >
             <a target="_blank" href="TI2.jpg">
             <img src="TI2.jpg">
             <audio controls>
                 <source src="training 2.mp3" type="audio/mp3"></audio>
         </a>
-        <div class="description">Pharmacology of Addictive Substances
+        <div class="description"><b>Pharmacology of Addictive Substances:</b>
             In this training, counselors learn about the most commonly misused substances, including alcohol, 
             opioids, stimulants, and cannabis—and the neurochemical processes that underlie their effects.
              Discussions include withdrawal syndromes, toxicity risks, and how these substances interact with 
@@ -81,7 +81,7 @@
             <audio controls>
                 <source src="training 3.mp3" type="audio/mp3"></audio>
         </a>
-        <div class="description">Screening, Brief Intervention, and Referral to Treatment (SBIRT)
+        <div class="description"><b>Screening, Brief Intervention, and Referral to Treatment (SBIRT):</b>
             SBIRT training introduces evidence-based tools (like the AUDIT and DAST) for early identification
              of problematic substance use and teaches short, motivational interventions to engage clients who
               may be ambivalent about change. The course also covers referral pathways to higher levels of care 
@@ -101,7 +101,7 @@
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
-    <div class="gallery">
+    <div class="gallery" style="margin-left: 75px;">
         <a target="_blank" href="TI4.jpg">
         <img src="TI4.jpg">
         <audio controls>
@@ -109,7 +109,7 @@
     </a>
     
     
-    <div class="description">Motivational Interviewing (MI) for Substance Use Disorders
+    <div class="description"><b>Motivational Interviewing (MI) for Substance Use Disorders:</b>
         This training covers the principles of Motivational Interviewing—expressing empathy, 
         developing discrepancy, rolling with resistance, and supporting self-efficacy—and 
         demonstrates how to enhance client motivation and commitment to change. Through roleplays
@@ -131,7 +131,7 @@
         <audio controls>
             <source src="training 5.mp3" type="audio/mp3"></audio>
     </a>
-    <div class="description">Ethical and Legal Considerations in SUD Treatment
+    <div class="description"><b>Ethical and Legal Considerations in SUD Treatment:</b>
         Focusing on confidentiality regulations such as HIPAA and 42 CFR Part 2, 
         this course helps counselors navigate the ethical and legal complexities 
         of working with clients who have substance use disorders. It addresses 
@@ -149,7 +149,7 @@
         <audio controls>
             <source src="training 6.mp3" type="audio/mp3"></audio>
     </a>
-    <div class="description">Cognitive Behavioral Therapy (CBT) for Substance Use
+    <div class="description"><b>Cognitive Behavioral Therapy (CBT) for Substance Use:</b>
         This training outlines how CBT principles can be applied to identify and 
         restructure unhealthy thought patterns, develop coping strategies, and enhance
          problem-solving skills in clients with substance use disorders. The curriculum
@@ -167,7 +167,7 @@
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br><br> <br><br><br><br>
 </div>
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="TI7.jpg">
     <img src="TI7.jpg">
     <audio controls>
@@ -175,7 +175,7 @@
 </a>
 
 
-<div class="description">Co-occurring emphasizes the relationship between mental health issues 
+<div class="description"><b>Co-occurring emphasizes the relationship between mental health issues:</b> 
     and substance use disorders. 
     Participants learn to screen for both substance use and mental health concerns, 
     ensuring that treatment addresses the full spectrum of a clients needs. Counselors will
@@ -198,7 +198,7 @@
     <audio controls>
         <source src="training 8.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Family Systems Therapy for Addiction
+<div class="description"><b>Family Systems Therapy for Addiction:</b>
     This training explores how family roles, dynamics, and communication patterns
      can perpetuate or mitigate substance use. Counselors learn to identify 
      behaviors like enabling and co-dependency and practice evidence-based 
@@ -217,7 +217,7 @@
     <audio controls>
         <source src="training 9.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Group Therapy for Substance Use Disorders
+<div class="description"><b>Group Therapy for Substance Use Disorders</b>
     In this training, participants review various group counseling formats, 
     from psychoeducational to process-oriented, and examine the stages of 
     group development. The training also addresses strategies for managing 
@@ -237,7 +237,7 @@
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br> <br><br> 
 </div>
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="TI10.jpg">
     <img src="TI10.jpg">
     <audio controls>
@@ -245,7 +245,7 @@
 </a>
 
 
-<div class="description">Trauma-Informed Care in Addiction Treatment
+<div class="description"><b>Trauma-Informed Care in Addiction Treatment</b>
     Understanding the influence of trauma on the brain and behavior is
      central to this training, which advocates for a trauma-informed
       approach focused on safety, trustworthiness, and empowerment. 
@@ -268,7 +268,7 @@
     <audio controls>
         <source src="training 11.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Medication-Assisted Treatment (MAT)
+<div class="description"><b>Medication-Assisted Treatment (MAT):</b>
     Counselors in this training explore how FDA-approved medications 
     (such as buprenorphine, methadone, and naltrexone) can be paired 
     with psychosocial support for clients with opioid and alcohol use
@@ -289,7 +289,7 @@
     <audio controls>
         <source src="training12.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Relapse Prevention & Continuing Care
+<div class="description"><b>Relapse Prevention & Continuing Care:</b>
 This module emphasizes the identification of high-risk triggers
  and the development of effective coping strategies to support 
  long-term recovery. Counselors review aftercare planning, involving 
@@ -310,7 +310,7 @@ This module emphasizes the identification of high-risk triggers
 
 </div>
 
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="TI13.jpg">
     <img src="TI13.jpg">
     <audio controls>
@@ -318,7 +318,7 @@ This module emphasizes the identification of high-risk triggers
 </a>
 
 
-<div class="description">Cultural Competency in SUD Treatment
+<div class="description"><b>Cultural Competency in SUD Treatment:</b>
     This training encourages counselors to examine how culture, race, 
     ethnicity, gender, and other identities shape the experience and 
     treatment of substance use disorders. It covers culturally adapted
@@ -336,19 +336,21 @@ This module emphasizes the identification of high-risk triggers
 
 <br>
 </div><div class="gallery">
-    <a target="_blank" href="TI13.jpg">
-    <img src="TI13.jpg">
+    <a target="_blank" href="TI13a.jpg">
+    <img src="TI13a.jpg">
     <audio controls>
-        <source src="training 13.mp3" type="audio/mp3"></audio>
+        <source src="training 13a.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Mindfulness and Third-Wave Behavioral Therapies
-    Counselors learn how mindfulness-based relapse prevention (MBRP) and 
-    Acceptance and Commitment Therapy (ACT) can enhance traditional treatment
-     models by helping clients manage cravings and increase psychological 
-     flexibility. Sessions explore practical mindfulness exercises for both 
-     individual and group settings. Participants will gain tools to help clients
-      stay present in the moment, reduce impulsive behaviors, and commit to values
-      -driven actions.
+<div class="description"><b>Self-Care for Clinicians Treating Substance Use Disorders:</b>
+    Clinicians working with substance use disorders often encounter high 
+    levels of stress and emotional fatigue, making self-care essential for
+     maintaining professional effectiveness and personal well-being. This 
+     training explores strategies that help clinicians recognize and manage 
+     burnout, compassion fatigue, and vicarious trauma. By emphasizing healthy 
+     boundaries, mindfulness practices, and support systems, clinicians will be
+      better equipped to sustain resilience, model healthy behaviors for clients, 
+      and continue delivering high-quality care.
+    
     <a href="about_us.html"><br>Click Here To Access Training Page</a>
 
     </div>
@@ -362,7 +364,7 @@ This module emphasizes the identification of high-risk triggers
     <audio controls>
         <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Assessment and Diagnostic Tools For Treating Substance Use Disorders
+<div class="description"><b>Assessment and Diagnostic Tools For Treating Substance Use Disorders:</b>
     This training delves into comprehensive biopsychosocial assessments, 
     structured clinical interviews like the SCID, and approaches for interpreting 
     complex presentations. Counselors learn to differentiate between overlapping
@@ -380,7 +382,7 @@ This module emphasizes the identification of high-risk triggers
 </div>
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br><br> <br>
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="eosa 1.jpg">
     <img src="eosa 1.jpg">
     <audio controls>
@@ -388,7 +390,7 @@ This module emphasizes the identification of high-risk triggers
 </a>
 
 
-<div class="description">Foundations of Clinical Supervision in Addiction Treatment
+<div class="description"><b>Foundations of Clinical Supervision in Addiction Treatment:</b>
     This training provides an overview of clinical supervisors roles, including 
     ethical obligations, supervision contracts, and various supervisory models 
     (developmental and reflective). Counselors who are moving into supervisory 
@@ -411,7 +413,7 @@ This module emphasizes the identification of high-risk triggers
     <audio controls>
         <source src="Project name (en) v2(10).mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Advanced Clinical Supervision: Skills and Strategies
+<div class="description"><b>Advanced Clinical Supervision: Skills and Strategies:</b>
     Building on foundational supervision concepts, this advanced module addresses 
     methods for giving constructive feedback, evaluating performance, and navigating 
     supervisee resistance. The course also emphasizes cultural humility and strategies 
@@ -431,7 +433,7 @@ This module emphasizes the identification of high-risk triggers
     <audio controls>
         <source src="training 18.mp3" type="audio/mp3"></audio>
 </a>
-<div class="description">Harm Reduction Strategies
+<div class="description"><b>Harm Reduction Strategies:</b>
     This training focuses on the philosophy and principles of harm 
     reduction, emphasizing practical ways to meet clients “where they’re 
     at” in their substance use. Topics include overdose prevention through 
@@ -450,7 +452,7 @@ This module emphasizes the identification of high-risk triggers
 </div>
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br> <br><br> 
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="eosa 1.jpg">
     <img src="eosa 1.jpg">
      <audio controls>
@@ -520,7 +522,7 @@ This module emphasizes the identification of high-risk triggers
 </div>
 <br><br>
 <br><br> <br><br> <br><br> <br><br> <br><br><br> <br><br><br> <br><br> <br><br><br> 
-<div class="gallery">
+<div class="gallery" style="margin-left: 75px;">
     <a target="_blank" href="eosa 1.jpg">
     <img src="eosa 1.jpg">
     <audio controls>
