@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pure CSS Image Carousel (36 Images)</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+
+   
+            
+            
+
+
+    <section class="container">
+        
+        <p style="background-color: aqua; font-size: 40px;">This Site Is Provides Quality Free Training For Addiction and Mental Health Practitioners By Expert Trainers</p>
+
+    <div class="slider-wrapper">
+
+         <div class="slider">
+            <Img id="slide-1" src="TI1.jpg"></Img>
+            <Img id="slide-2" src="TI2.jpg"></Img>
+            <Img id="slide-3" src="TI13.jpg"></Img>
+            <Img id="slide-4" src="TI4.jpg"></Img>
+            <Img id="slide-5" src="TI5.jpg"></Img>
+            <Img id="slide-6" src="eosa 1.jpg"></Img>
+
+            <video id="slide-7" width="560" height="315" controls>
+                <source src="Test ethical considerations.mp4" type="video/mp4">
+
+          
+            </video>
+
+            <iframe  width="560" height="315" src="https://www.youtube.com/embed/Hibnu8KsoJw?si=tEnVBTp5rUR7ocqe" title="Welcome from Trainer" frameborder="0" allow="accelerometer; autoplay;
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
+
+         
+
+
+            
+            </div>
+
+    </div>
+
+    <div class="slider-nav">
+        <a href="#slide-1"></a>
+        <a href="#slide-2"></a>
+        <a href="#slide-3"></a>
+        <a href="#slide-4"></a>
+        <a href="#slide-5"></a>
+        <a href="#slide-6"></a>
+        <a href="Test ethical considerations.mp4"></a>
+        <a href="https://www.youtube.com/embed/Hibnu8KsoJw?si=tEnVBTp5rUR7ocqe"></a>
+
+        </div>
+
+</section>
+<br>
+
+<P style="margin-left: 100px; font-size: 25px;"> This is a test to put images such as a presentation 
+    or a video or a training on a carosual to see <br>how it will work 
+lets see how this comes out</P>
+</body>
+</html>
+
+
+!CSS Style sheet
+
+.container {
+    padding: 10px;
+}
+
+.slider-wrapper {
+    position: relative;
+    max-width: 900px;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+
+.slider {
+    display:flex;
+    aspect-ratio: 16/9;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 1.5px hsla(0, 0,0, .25);
+    border-radius: 10px;
+
+}
+
+.slider img {
+    flex: 1 0 100%;
+    scroll-snap-align: start;
+    object-fit: cover;
+}
+.slider-nav {
+    display: flex;
+    column-gap: 1px;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    
+    margin-right: 500px;
+    
+   
+
+}
+.slider-nav a {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: rgb(52, 208, 20);
+    opacity: 75%;
+    transition: ease 250ms;
+    
+}
+
+.slider-nav a:hover {
+    opacity: 1;
+}
