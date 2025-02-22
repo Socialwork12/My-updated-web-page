@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Free Training</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+<body>
+    
+
+    <div id="nav">
+        <!--Anchor tags used for internal navigation-->
+            
+        <a href="index.html">Home page</a>
+        
+        <a href="about_us.html">About Us Page</a>
+       
+       
+        <a href="images_page.html">Trainings Home Page</a>
+
+            </div>
+            <div id="header">
+                <div id="banner">
+                   <p style="font-size: 60px; text-align: center;">The Pharmacology of Addictive Substances </p>
+                   
+                        <br>
+                   <div>
+                    <P style="background: none;background-color: white; margin-left: 50px; margin-left: 50px;"><b>Training Description:</b><br>
+                        Pharmacology of Addictive Substances In this training, counselors learn about the most commonly misused substances,
+                         including alcohol, opioids, stimulants, and cannabis—and the neurochemical processes that underlie their effects. 
+                         Discussions include withdrawal syndromes, toxicity risks, and how these substances interact with the brain and 
+                         body. Counselors will emerge with an enhanced ability to recognize substance- specific presentations, educate
+                          clients about the physiological impact of these substances, and guide more informed treatment planning. Scroll to 
+                        the middle of the page to access training and additional resources.</P>
+                          
+
+                          <ol style="text-align: left; margin-left: 60px; margin-right: 60px;">
+                           <b><p style="text-decoration: underline; background: none; ">Course Learning Objectives</p></b>
+                           <li>Explain the Pharmacological Mechanisms of Commonly Abused Substances</li> <br><li>Distinguish Substance-Specific Effects and Presentations</li>
+                           <br><li>Recognize Withdrawal Syndromes and Toxicity Risks</li><br><li>Educate Clients on the Physiological Impacts of Substance Use</li>
+                           <br><li>Apply Pharmacological Knowledge to Tailored Treatment Planning</li>
+                        
+                          </ol>
+
+                          <br>
+                          <p style="background: none; margin-left: 60px; margin-right: 60px;">This is a web-based self-paced training which provides 2 hours substance specific
+                             board approved hours. The content for this project has been curated or developed by author Michael Daniels
+                             MSW, LCAS, CCS, LCSW and other many amazing professionals who have donated their expertice and time to 
+                             ensure practitioners entering the addiction profession have access to quality trainings without barriers 
+                             of finance and access.
+                             <br><br>
+
+                            <b> Receiving Credit:</b> In order to receive credit for the training you must complete the interactive question within
+                             the training. If you do not complete the embedded quizes, when you get to  end of the training you will not
+                             receive credit until you complete the embedded quiz questions. In Addition, you must complete the 
+                             50 item quiz at the end of the training and receive at least an 85% before receiving your certificate. You do have 
+                             the option of retaking the quiz until you reach the approved score. Once you submit your quiz, you will receive
+                             your certificate with in 24 hours.
+                              
+                            
+                          </p>
+                </div>
+            
+                <br> <br> <br>
+
+
+                <div class="container" style="display: flex; flex-direction: row; margin-left: 20px;">
+                    
+                    <div class="box" id="box1" style="width: 1000px; height: 650px; background: none; margin-right: 0px;"><div class="dropdown" style="margin-right: 985px;">
+
+
+                        <div class="dropdown" style="margin-right: 985px;">
+
+                            <button style="font-size: 25px; background: none;"><b>1.Pharmacology_of_Addictive_Substances </b></button>
+                            <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px;">
+            
+                                <P style="background: none;">The study of how addictive substances, including alcohol, 
+                                    opioids, stimulants, and cannabis, interact with the brain and body, leading 
+                                    to dependence and addiction. </P>
+            
+                            </div>
+            
+            
+                            <br>
+                        </div>
+
+                    
+
+                        
+
+                        
+                    </div>
+
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>2.Neurotransmitters</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px;">
+        
+                            <P style="background: none;">Chemical messengers in the brain,
+                                 such as dopamine and serotonin, that play a key 
+                                 role in the effects of addictive substances. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>3.Dependence</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">A physiological or psychological need for a
+                                 substance, characterized by withdrawal symptoms when the substance is not used. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>4.Tolerance</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">A condition in which the body requires higher 
+                                doses of a substance to achieve the same effects due to repeated exposure. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>5.Withdrawal_Syndrome </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">A group of symptoms that occur when a
+                                 person stops or reduces the use of an addictive substance, 
+                                 varying in severity based on the substance. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>6.Toxicity</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The degree to which a substance can cause 
+                                harm to the body, particularly when taken in excessive amounts. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>7.Alcohol_Pharmacodynamics </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The way alcohol affects the central nervous 
+                                system, including its depressive effects on brain activity
+                                 and its impact on neurotransmitters like GABA. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>8.Opioid_Mechanism_of_Action </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The process by which opioids bind to opioid 
+                                receptors in the brain and spinal cord, reducing pain and creating euphoric effects. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>9.Stimulants</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">A category of drugs, including cocaine and
+                                 amphetamines, that increase central nervous system activity,
+                                  leading to increased energy, alertness, and potential cardiovascular risks. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>10.Cannabis_Effects</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The physiological and psychological 
+                                effects of cannabis use, including euphoria, relaxation, 
+                                altered perception, and potential cognitive impairment. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>11.Detoxification</b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The process of clearing an addictive 
+                                substance from the body, often accompanied by withdrawal
+                                 symptoms and requiring medical supervision in severe cases. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>12.Substance_Specific_Presentations </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The unique physiological and
+                                 behavioral signs associated with different categories
+                                  of addictive substances. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>13.Harm_Reduction_Strategies </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">Approaches aimed at minimizing the negative
+                                 consequences of substance use, such as supervised injection 
+                                 sites and medication-assisted treatments.</P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>14.Medication_Assisted_Treatment_(MAT) </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">A spectrum that categorizes substance use
+                                 from no use to severe dependence, including experimental use, 
+                                 regular use, risky use, dependence, and substance use disorder. </P>
+        
+                        </div>
+        
+        
+                        <br>
+                    </div>
+                    <div class="dropdown" style="margin-right: 985px;">
+
+                        <button style="font-size: 25px; background: none;"><b>15.Individualized_Treatment_Planning </b></button>
+                        <div class="content" style="background-color: rgb(218, 218, 223); width: 1000px">
+        
+                            <P style="background: none;">The process of developing personalized treatment
+                                 strategies based on a client’s specific substance use patterns, 
+                                 medical history, and psychological needs.</P>
+        
+                        </div>
+                    </div>
+                    
+                    
+                    
+
+
+                    </div>
+
+                    <br>
+                    
+
+
+
+
+                    
+                    <div class="box" id="box1" style="margin-top: 100px; margin-left: 0px; margin-right: 10px; width: 400px; height: 400px;">  
+                        <img src="TI6.jpg " style="width: 400px; height: 400px;"></div>
+
+                        
+
+
+
+
+                        </div>
+
+                        <br> 
+
+                        <P style="text-align: center; font-size: 35px; width: 700px; margin-left: 400px;">Below you will be able to access the training</P>
+
+                        <div class="container" style="margin-left: 50px;">
+
+                            <div class="box" id="box23" style=" background: none; width: 800px; height: 600px; font-size: 
+                            35px;">Training Agenda
+
+                            <di>
+                                <ol style="font-size: 25px;">
+                                    <li>Course Introduction & Overview (Approx. 10 minutes)</li><br>
+                                    <li>Pharmacological Mechanisms of Commonly Abused Substances (Approx. 20 minutes)</li><br>
+                                    <li>Distinguishing Substance-Specific Effects and Presentations (Approx. 20 minutes)</li><br>
+                                    <li>Recognizing Withdrawal Syndromes and Toxicity Risks (Approx. 20 minutes)</li><br>
+                                    <li>Educating Clients on the Physiological Impacts of Substance Use (Approx. 20 minutes)</li><br>
+                                    <li>Applying Pharmacological Knowledge to Tailored Treatment Planning (Approx. 20 minutes)</li><br>
+                                    <li>Course Conclusion & Next Steps (Approx. 10 minutes).</li><br>
+                                    <li>Additional Resources & Feedback:
+                                        Information on further readings, resources for continued learning, and instructions on 
+                                        providing course feedback.
+                                        </li>
+                                    
+                                    
+
+
+
+
+                                </ol>
+                            </di>
+                            
+                        
+                        </div>
+
+
+
+
+                            <div class="box" id="box23" style="background-color: aqua;width: 600px; height: 600px;margin-left: 
+                            50px;font-size: 35px;">Access the graining</div>
+
+
+
+
+                            </div>
+                            <br><br><br><br>
+
+                            <div class="box" id="box24" style="width: 1500px; height: 800px;background-color: aqua; margin-right: 0px; margin-right: 60px;">
+
+                                <p style="text-align: center; background: none; text-decoration: underline;"> <b>Additional Resources Related To This Training</b></p>
+
+                                <h2 style="margin-left: 100px;">Video Related To This Training</h2>
+                                <iframe  width="560" height="315" src="https://www.youtube.com/embed/Hibnu8KsoJw?si=tEnVBTp5rUR7ocqe" title="Welcome from Trainer" frameborder="0" allow="accelerometer; autoplay;
+                                clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin-left: 100px;"></iframe>
+
+
+                                <br><br>
+
+                                <p style="font-size: 30px; background: none; margin-left: 100px; text-decoration: underline;"> <b>Articles Related To This Training</b></p>
+
+                                <div>
+                                    <ol style="margin-left: 85px;">
+
+                                        <li>1</li>
+                                        <li>1</li>
+                                        <li>1</li>
+                                        <li>1</li>
+                                        <li>1</li>
+
+                                    </ol>
+
+
+                                </div>
+
+
+
+                            </div>
+
+
+
+                
